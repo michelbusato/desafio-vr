@@ -20,7 +20,7 @@ Desafio técnico de uma API de Mini Autorizador
 ```
 $ git clone https://github.com/michelbusato/desafio-vr.git
 
-$ cd prova-vr
+$ cd desafio-vr
 ```
 
 ## Utilizando Maven
